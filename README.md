@@ -18,3 +18,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
           [applications: [:orbiter_cli]]
         end
 
+
+## Development
+
+    mix escript.build && ./orbiter_cli
